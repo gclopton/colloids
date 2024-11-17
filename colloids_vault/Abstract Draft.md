@@ -1,0 +1,6 @@
+
+Colloidal quantum dots (CQDs) are nanoscale semiconductor particles with unique optoelectronic properties that make them valuable in a wide range of technologies, including QD-LEDs, photovoltaics, photodetectors, and lasers. A major challenge in optimizing CQD performance is the control of surface defects, which as missing atoms, interstitials, dangling bonds, and impurities. These defects create electronic trap states that capture charge carriers, leading to non-radiative recombination and reduced quantum efficiency [1, 2]. Surface passivation techniques, such as ligand exchange, core-shell design, and inorganic passivation can neutralize these traps, enhancing photoluminescence and ultimately improving the stability and efficiency of CQD-based devices[2]. This paper discusses recent advances in surface passivation techniques for CQDs, highlights their current limitations, and surveys current and emerging technologies where surface passivation plays an important role.
+
+**References:**
+1. Steenbock, T.; Drescher, E.; Dittmann, T.; Bester, G. **How Surface Defects Shape the Excitons and Photoluminescence of Ultrasmall CdSe Quantum Dots.** _Chem. Mater._ **2024,** _36_ (13).
+2. Kilina, S. V.; Tamukong, P. K.; Kilin, D. S. **Surface Chemistry of Semiconducting Quantum Dots: Theoretical Perspectives.** _Acc. Chem. Res._ **2016,** _49_ (10), 2127–2135.
