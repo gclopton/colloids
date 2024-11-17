@@ -1,1 +1,11 @@
-{}
+{
+  "cssTheme": "Dracula for Obsidian",
+  "accentColor": "",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "S - Images Adjustments",
+    "pub-Image Flags",
+    "S - Callouts"
+  ],
+  "theme": "obsidian"
+}
